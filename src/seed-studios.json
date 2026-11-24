@@ -1,0 +1,209 @@
+[
+  {
+    "id": "atlas-light",
+    "title": "The Atlas Daylight Loft",
+    "category": "Photo Studio",
+    "rate": 85,
+    "deposit": 100,
+    "capacity": 12,
+    "location": "Brooklyn, New York",
+    "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1300&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1300&q=85",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1300&q=85",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1300&q=85"
+    ],
+    "amenities": [
+      "Natural light",
+      "Lighting kit",
+      "Backdrops",
+      "Wi-Fi",
+      "Changing room"
+    ],
+    "overview": "A warm, open-plan daylight loft with flexible shooting zones, soaring windows and a thoughtfully selected grip package. An ideal space for editorial campaigns, portraits and product shoots.",
+    "ownerName": "Morgan Lee",
+    "ownerEmail": "host@studiospace.com",
+    "rating": 4.9,
+    "reviews": 82,
+    "featured": true
+  },
+  {
+    "id": "echo-podcast",
+    "title": "Echo House Podcast Room",
+    "category": "Podcast Lounge",
+    "rate": 60,
+    "deposit": 75,
+    "capacity": 6,
+    "location": "Austin, Texas",
+    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=1300&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=1300&q=85",
+      "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1300&q=85"
+    ],
+    "amenities": [
+      "Soundproofing",
+      "Audio equipment",
+      "Air conditioning",
+      "Wi-Fi"
+    ],
+    "overview": "A conversational recording space designed for stories worth telling. Acoustically treated walls, multi-mic setup and a comfortable atmosphere make recording easy.",
+    "ownerName": "Jordan Rivera",
+    "ownerEmail": "host@studiospace.com",
+    "rating": 4.8,
+    "reviews": 64,
+    "featured": true
+  },
+  {
+    "id": "frame-one",
+    "title": "Frame One Film Stage",
+    "category": "Film Stage",
+    "rate": 210,
+    "deposit": 300,
+    "capacity": 35,
+    "location": "Los Angeles, California",
+    "image": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=1300&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=1300&q=85",
+      "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&w=1300&q=85"
+    ],
+    "amenities": [
+      "Green screen",
+      "Lighting kit",
+      "Parking",
+      "Changing room",
+      "Air conditioning"
+    ],
+    "overview": "A flexible sound stage built for ambitious production days, with professional lighting support, easy load-in and plenty of room for your crew.",
+    "ownerName": "Taylor Chen",
+    "ownerEmail": "host@studiospace.com",
+    "rating": 5,
+    "reviews": 41,
+    "featured": true
+  },
+  {
+    "id": "resonance-suite",
+    "title": "Resonance Recording Suite",
+    "category": "Music Suite",
+    "rate": 95,
+    "deposit": 120,
+    "capacity": 8,
+    "location": "Nashville, Tennessee",
+    "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=1300&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=1300&q=85",
+      "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=1300&q=85"
+    ],
+    "amenities": [
+      "Soundproofing",
+      "Audio equipment",
+      "Wi-Fi",
+      "Air conditioning"
+    ],
+    "overview": "A focused music production environment for tracking, composing and mixing, with a comfortable live room and a quiet control space.",
+    "ownerName": "Sam Patel",
+    "ownerEmail": "host@studiospace.com",
+    "rating": 4.9,
+    "reviews": 57,
+    "featured": true
+  },
+  {
+    "id": "makers-table",
+    "title": "The Makers Table",
+    "category": "Workshop",
+    "rate": 55,
+    "deposit": 60,
+    "capacity": 15,
+    "location": "Portland, Oregon",
+    "image": "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?auto=format&fit=crop&w=1300&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?auto=format&fit=crop&w=1300&q=85",
+      "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1300&q=85"
+    ],
+    "amenities": [
+      "Natural light",
+      "Wi-Fi",
+      "Kitchenette",
+      "Parking",
+      "Props"
+    ],
+    "overview": "A creative workshop with generous shared tables, inspiring materials and plenty of daylight for hands-on classes, crafts and art-making.",
+    "ownerName": "Casey Woods",
+    "ownerEmail": "host@studiospace.com",
+    "rating": 4.7,
+    "reviews": 33,
+    "featured": true
+  },
+  {
+    "id": "north-cove",
+    "title": "North Cove Creative Studio",
+    "category": "Photo Studio",
+    "rate": 110,
+    "deposit": 150,
+    "capacity": 16,
+    "location": "Chicago, Illinois",
+    "image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1300&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1300&q=85",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1300&q=85"
+    ],
+    "amenities": [
+      "Natural light",
+      "Backdrops",
+      "Lighting kit",
+      "Parking",
+      "Wi-Fi"
+    ],
+    "overview": "An intentionally minimal photo space with clean architectural lines, moveable furniture and a versatile lighting setup for creative teams.",
+    "ownerName": "Alex Ford",
+    "ownerEmail": "host@studiospace.com",
+    "rating": 4.8,
+    "reviews": 49,
+    "featured": true
+  },
+  {
+    "id": "copper-sound",
+    "title": "Copper Sound Sessions",
+    "category": "Music Suite",
+    "rate": 75,
+    "deposit": 80,
+    "capacity": 5,
+    "location": "Seattle, Washington",
+    "image": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?auto=format&fit=crop&w=1300&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?auto=format&fit=crop&w=1300&q=85"
+    ],
+    "amenities": [
+      "Audio equipment",
+      "Soundproofing",
+      "Wi-Fi"
+    ],
+    "overview": "A boutique room for independent artists, producers and small recording sessions.",
+    "ownerName": "Jamie Hall",
+    "ownerEmail": "host@studiospace.com",
+    "rating": 4.6,
+    "reviews": 24
+  },
+  {
+    "id": "softbox-studio",
+    "title": "Softbox Portrait Studio",
+    "category": "Photo Studio",
+    "rate": 70,
+    "deposit": 85,
+    "capacity": 9,
+    "location": "Denver, Colorado",
+    "image": "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1300&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1300&q=85"
+    ],
+    "amenities": [
+      "Lighting kit",
+      "Backdrops",
+      "Changing room"
+    ],
+    "overview": "A calm and inviting studio for portraits, lookbooks and creative sessions.",
+    "ownerName": "Riley Park",
+    "ownerEmail": "host@studiospace.com",
+    "rating": 4.7,
+    "reviews": 37
+  }
+]
